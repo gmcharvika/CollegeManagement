@@ -6,3 +6,4 @@ Semester: 5
 Attendence: 85%
 Result: PASS
 feature: attendance Management
+Project: College Management System
